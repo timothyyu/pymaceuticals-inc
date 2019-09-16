@@ -155,7 +155,7 @@ plt.savefig('reports/figures/tumor_response.png')
 plt.show()
 ```
 
-![png](C:\Users\tyu-dev\repo_folder\pymaceuticals-inc\reports\figures\tumor_response.png)
+![png](figures\tumor_response.png)
 
 
 # Metastatic site change over time 
@@ -199,7 +199,7 @@ plt.show()
 ```
 
 
-![png](C:\Users\tyu-dev\repo_folder\pymaceuticals-inc\reports\figures\metastatic_spread.png)
+![png](figures\metastatic_spread.png)
 
 
 # Survival rate over time
@@ -251,7 +251,7 @@ plt.show()
 ```
 
 
-![png](C:\Users\tyu-dev\repo_folder\pymaceuticals-inc\reports\figures\survival_rate.png)
+![png](figures\survival_rate.png)
 
 
 
@@ -326,7 +326,7 @@ plt.show()
 ```
 
 
-![png](C:\Users\tyu-dev\repo_folder\pymaceuticals-inc\reports\figures\tumor_change.png)
+![png](figures\tumor_change.png)
 
 
 
