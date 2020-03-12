@@ -130,7 +130,7 @@ ply==3.11
 poloniex==0.0.17
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
-psutil==5.4.7
+psutil==5.6.6
 pureples==0.0
 py==1.6.0
 pyasn1==0.4.4
