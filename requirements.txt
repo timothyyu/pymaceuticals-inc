@@ -42,7 +42,7 @@ datashape==0.5.4
 DateTime==4.3
 decorator==4.3.0
 defusedxml==0.5.0
-distributed==1.23.1
+distributed==2021.10.0
 docutils==0.14
 empdist==0.2.0
 entrypoints==0.2.3
